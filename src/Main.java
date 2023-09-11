@@ -11,7 +11,8 @@ public class Main {
 
     // 2. add
     public static int add(int a,int b,int c,int d){
-        return add(5,7,6,6);
+        int result = add(5,7,6,6);
+        return a+b+c+d;
     }
 
     // 3. morningGreeting
